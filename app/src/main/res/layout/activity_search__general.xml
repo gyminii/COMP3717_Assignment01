@@ -20,7 +20,8 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Search Result" />
+        android:textSize="30sp"
+        android:text="@string/search_result_text" />
     <ListView
         android:id="@+id/list"
         android:layout_width="match_parent"

@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Lee_Lee_Lee</string>
+    <string name="hint_text">Enter a keyword!</string>
+    <string name="search">Search!</string>
+    <string name="title_text">Title</string>
+    <string name="source_text">Source</string>
+    <string name="author_text">Author</string>
+    <string name="published_text">Published At</string>
+    <string name="url_text">URL</string>
+    <string name="description_text">Description </string>
+    <string name="article_text">Article</string>
+    <string name="contents_text">Contents</string>
+    <string name="search_result_text">Search Result</string>
 </resources>
