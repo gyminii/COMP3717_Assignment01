@@ -6,8 +6,10 @@
 
 ## 1. Members
 
->Eunsaem Lee
+> Eunsaem Lee
+
 > A00975158
+
 > eunsaemy@gmail.com
 
 
@@ -35,5 +37,5 @@ tyler7688@gmail.com
 https://github.com/gyminii/COMP3717_Assignment01
 You can also drag the app-debug.apk file into your existing emulator.
 >> Special Note
-> > >Minimum SDK to run this application is 26
+> > > Minimum SDK to run this application is 26
 
