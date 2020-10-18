@@ -7,9 +7,7 @@
 ## 1. Members
 
 > Eunsaem Lee
-
 > A00975158
-
 > eunsaemy@gmail.com
 
 
