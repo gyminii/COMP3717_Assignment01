@@ -7,6 +7,15 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="200sp"
+        android:layout_height="200sp"
+        android:layout_marginTop="20sp"
+        android:layout_marginBottom="20sp"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/logo" />
+
     <TextView
         android:id="@+id/search_TextView"
         android:layout_width="match_parent"
@@ -25,4 +34,5 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:text="Search" />
+
 </LinearLayout>
