@@ -18,15 +18,18 @@
 
     <TextView
         android:id="@+id/search_TextView"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="20sp"
         android:layout_height="wrap_content"
         android:text="Enter a Keyword: " />
 
     <EditText
         android:id="@+id/search_EditText"
         android:layout_width="match_parent"
+        android:layout_marginLeft="20sp"
+        android:layout_marginRight="20sp"
         android:layout_height="wrap_content"
-        android:text="Name" />
+        android:hint="Name" />
 
     <Button
         android:id="@+id/search_Button"
@@ -36,3 +39,5 @@
         android:text="Search" />
 
 </LinearLayout>
+
+    <!--    android:text="Name"-->
